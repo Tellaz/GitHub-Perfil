@@ -11,7 +11,7 @@ You can click the Preview link to take a look at your changes.
 
 ### Ferramentas e Tecnologias:
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" height="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" width="50" height="50"/> <img src="https://img.icons8.com/color/48/000000/microsoft-sql-server.png" width = "50" heigth = "50"/> <img src="https://icons8.com/icon/Fycm8TUhWmFU/c-sharp-logo.png" width = "50" heigth = "50"/> <img src="https://icons8.com/icon/Y8UPqrI8Yp7V/react.png" width = "50" heigth = "50"/> <img src="https://icons8.com/icon/BUnExfsRs3CW/vuejs.png" width = "50" heigth = "50"/> <img src="https://icons8.com/icon/108784/javascript.png" width = "50" heigth = "50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" height="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" width="50" height="50"/> <img src="https://img.icons8.com/color/48/000000/microsoft-sql-server.png" width = "50" heigth = "50"/> <img src="https://img.icons8.com/nolan/64/c-sharp-logo.png" width = "50" heigth = "50"/> <img width="50" height="50" src="https://img.icons8.com/external-tanah-basah-basic-outline-tanah-basah/48/external-React-social-media-tanah-basah-basic-outline-tanah-basah.png"/> <img src="https://img.icons8.com/fluency/48/vuejs.png" width = "50" heigth = "50"/> <img src="https://img.icons8.com/color/48/javascript--v1.png" width = "50" heigth = "50"/>
 
 ### Contatos:
 
