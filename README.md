@@ -20,7 +20,6 @@ You can click the Preview link to take a look at your changes.
 <a href="https://www.linkedin.com/in/matheus-tegon-a95b8a1b0/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tellaz&layout=compact&langs_count=7&theme=dracula" />  
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Tellaz&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 
+<a href="https://github.com/Tellaz"> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tellaz&layout=compact&langs_count=7&theme=dracula" />  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Tellaz&show_icons=true&theme=dracula&include_all_commits=true&count_private=false"/>
 
