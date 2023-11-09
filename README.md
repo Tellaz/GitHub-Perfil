@@ -1,8 +1,15 @@
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Tellaz.visitor-badgee&color=green&style=flat-square">
+
 - ### Olá, sou o Matheus Eduardo dos Santos Tegon 👋
 - 📫 Meu e-mail é: tegonmatheus@gmail.com;
 - 📚 Formado em Análise e Desenvolvimento de Sistemas pela FATEC - Araçatuba; 
 - 👜 Atualmente trabalho na empresa Pro4Tech como Full-Stack. Em projetos, utilizando ASP.Net Core para Back-End e para Front-End React/Vue;
  
+<!-- <img src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=brunocampos01&badges=3&show-avatar=false&style=--header-bg-color:%23000;--border-radius:10px" width="35%" align="right"> -->
+ 
+<p align="left">
+  <a href="https://readme-typing-svg.herokuapp.com?color=0353B1&lines=Software+Developer;2%2B+years+of+coding+experience;Always+learninig+new+things)]></a>
+</p>
 
 <!---
 Tellaz/Tellaz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
