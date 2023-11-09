@@ -11,6 +11,7 @@
   <a href="https://readme-typing-svg.herokuapp.com?color=0353B1&lines=Software+Developer;2%2B+years+of+coding+experience;Always+learninig+new+things)]></a>
 </p>
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=0353B1&lines=Software+Developer;2%2B+years+of+coding+experience;Always+learninig+new+things)](https://git.io/typing-svg)
 <!---
 Tellaz/Tellaz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
