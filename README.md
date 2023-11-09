@@ -1,4 +1,4 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Tellaz.visitor-badgee&color=green&style=flat-square">
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Tellaz.visitor-badgee&color=green&style=flat-square" />
 
 - ### Olá, sou o Matheus Eduardo dos Santos Tegon 👋
 - 📫 Meu e-mail é: tegonmatheus@gmail.com;
